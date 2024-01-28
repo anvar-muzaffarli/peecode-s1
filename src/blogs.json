@@ -2,18 +2,20 @@
     {"id": 1,
         "meqaleBasligi":"lorem ipsum 1",
         "meqaleninShekli" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1704437298/Rectangle_228_fpjrct.png" ,
-        "meqaleninMetni" : "1.lhfdshfsdhfhdsfhjsdfhjdshfj"
+        "meqaleninMetni" : "Metn 1 "
     }, {
         "id": 2,
         "meqaleBasligi":"lorem ipsum 2",
-        "meqaleninShekli" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1704437298/Rectangle_228_fpjrct.png" ,
-        "meqaleninMetni" : "2.lhfdshfsdhfhdsfhjsdfhjdshfj"
+        "meqaleninShekli" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1705847612/Rectangle_228_1_esgpyb.png" ,
+        "meqaleninMetni" : "Metn 2"
     }, {
         "id": 3,
         "meqaleBasligi":"lorem ipsum 3",
         "meqaleninShekli" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1704437298/Rectangle_228_fpjrct.png" ,
         "meqaleninMetni" : "3.lhfdshfsdhfhdsfhjsdfhjdshfj"
-    }, {
+    }, 
+    
+    {
         "id": 4,
         "meqaleBasligi":"lorem ipsum 4",
         "meqaleninShekli" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1704437298/Rectangle_228_fpjrct.png" ,
